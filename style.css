@@ -1,4 +1,8 @@
-.angular-google-map-container{height: 400px;}
+.angular-google-map-container{
+  height: 400px;
+  width: 100%;
+  border: 10px solid white;
+  }
 
 
 @font-face{
@@ -8,7 +12,21 @@
 
 h1 {
   font-family: 'Montserrat', sans-serif;
-  color:black;
+  color: black;
+  font-size: 48px;
+}
+
+.logo-nav{
+  display:flex;
+  flex-direction: row;
+  align-content: center;
+}
+
+nav {
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  height: 180px;
 }
 html {
   margin: 0;
@@ -22,28 +40,45 @@ body {
 }
 
 .cont {
-  margin: 4%;
+  margin: 2% 4%;
 }
 
 .logo-parent {
-  padding: 20px;
+  padding: 40px 20px 20px 20px;
 }
 
 .logo {
-  height: 150px;
-  background: url(/images/SND.jpg);
-  background-size: cover;
+  height: 90px;
+  background: url(/images/FremontSFGnew.png);
+  background-size: contain;
   background-position: center;
+  background-repeat: no-repeat;
   margin: 0 0 0 ;
 }
 
-nav {
-  height: 200px;
-  background-color:green;
-}
+
 
 
 .sidebar {
   height: 400px;
   background-color:blue;
+}
+
+.container {
+
+}
+
+.fremont{
+  background: url(/images/Fremonttopimage.jpg);
+  height: 200px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin: 0 auto 20px 0;
+}
+
+.d3chart {
+  height: 400px;
+  background-color:blue;
+  margin: 0 0 40px 0;
 }

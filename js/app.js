@@ -65,5 +65,5 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
 }]);
 
 app.controller('MainCtrl', ['$scope', function($scope) {
-  $scope.test = "App is working!";
+  $scope.map = {center: {latitude: 47.673401, longitude: -122.342598}, zoom: 12};
 }]);
