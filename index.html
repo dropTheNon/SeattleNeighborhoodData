@@ -18,6 +18,12 @@
 <body ng-app="SND" ng-controller="MainCtrl">
   <div class="container">
     <h1>{{test}}</h1>
+    <div ng-repeat="crime in crimes">
+      {{crime.date_reported}}
+      {{crime.latitude}}
+      {{crime.longitude}}
+      {{crime.summarized_offense_description}}
+    </div>
   </div>
 
   <!-- Latest compiled and minified JavaScript -->
