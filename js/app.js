@@ -1,14 +1,29 @@
 var app = angular.module('SND', ['ngAnimate', 'ui.router', 'uiGmapgoogle-maps']);
 
-app.config(['uiGmapGoogleMapApiProvider', function(GoogleMapApiProviders) {
+app.config(['uiGmapGoogleMapApiProvider', '$stateProvider', '$urlRouterProvider', '$locationProvider', function(GoogleMapApiProviders, $stateProvider, $urlRouterProvider, $locationProvider) {
   GoogleMapApiProviders.configure({
-    china: true})
+    china: true});
+
+  $urlRouterProvider.otherwise('/');
+
+  $stateProvider
+  .state('home', {
+    url: '/',
+    templateUrl: 'views/home.html',
+    controller: 'MainCtrl'
+  })
+  .state('neighborhood', {
+    url: '/neighborhood',
+    templateUrl: 'views/neighborhood.html',
+    controller: 'NeighborhoodCtrl'
+  });
+
+  $locationProvider.html5Mode(true);
 }]);
 
-app.controller('MainCtrl', ['$scope', '$http', function($scope, $http) {
+app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
   $scope.map = {center: {latitude: 47.673401, longitude: -122.342598}, zoom: 14};
 
-  $scope.test = "App is working!";
   $scope.crimedata = [];
   $scope.crimes = [];
 
@@ -47,4 +62,8 @@ app.controller('MainCtrl', ['$scope', '$http', function($scope, $http) {
     $scope.hidden = !$scope.hidden;
   };
 
+}]);
+
+app.controller('MainCtrl', ['$scope', function($scope) {
+  $scope.test = "App is working!";
 }]);
