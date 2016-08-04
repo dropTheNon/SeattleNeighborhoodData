@@ -22,7 +22,7 @@ app.config(['uiGmapGoogleMapApiProvider', '$stateProvider', '$urlRouterProvider'
 }]);
 
 app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
-  $scope.map = {center: {latitude: 47.673401, longitude: -122.342598}, zoom: 14};
+  $scope.map = {center: {latitude: 47.673400, longitude: -122.342560}, zoom: 14};
 
   $scope.crimedata = [];
   $scope.crimes = [];
@@ -134,8 +134,8 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
         dataLarcenyTheft = [],
         dataMotorVehicleTheft = [];
 
-    var width = 960,
-        height = 500;
+    var width = 800,
+        height = 420;
     console.log('Our height:', height);
     var y = d3.scale.linear().range([height, 0]);
     console.log(y(2));
@@ -214,6 +214,7 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
       return d;
     }
   };
+    d3BarChart();
 }]);
 
 app.controller('MainCtrl', ['$scope', function($scope) {
