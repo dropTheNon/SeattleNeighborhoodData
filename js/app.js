@@ -62,12 +62,7 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
     $scope.hidden = !$scope.hidden;
   };
 
-}]);
-
-app.controller('MainCtrl', ['$scope', function($scope) {
-  $scope.test = "App is working!";
-
-  // $scope.d3LineChart = function() {
+    // $scope.d3LineChart = function() {
   //   var margin = {top: 20, right: 20, bottom: 30, left: 50},
   //       width = 960 - margin.left - margin.right,
   //       height = 500 - margin.top - margin.bottom;
@@ -218,18 +213,9 @@ app.controller('MainCtrl', ['$scope', function($scope) {
       d.STAT_VALUE = +parseInt(d.STAT_VALUE); 
       return d;
     }
-  }
+  };
+}]);
 
-  // $scope.getData = function() {
-  //   $http.get('https://somesite.com', {
-  //     params: {
-
-  //     }
-  //   })
-  //   .then(function success(res) {
-  //     console.log(res);
-  //   }, function error(res) {
-  //     console.log(res);
-  //   });
-  // }
+app.controller('MainCtrl', ['$scope', function($scope) {
+  $scope.map = {center: {latitude: 47.673401, longitude: -122.342598}, zoom: 12};
 }]);
