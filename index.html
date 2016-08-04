@@ -20,12 +20,29 @@
   <script src="//maps.googleapis.com/maps/api/js?key=AIzaSyBUGysiULRm4y1wOrG5wRk7CFaNl0GLWr4"></script>
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/angular-google-maps/2.3.3/angular-google-maps.min.js"></script>
   <!-- End Google Maps -->
+  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
   <script src="js/app.js"></script>
   <title>Seattle Neighborhood Data</title>
 </head>
 <body ng-app="SND">
+  <div class="cont">
+    <div class="row">
+    <div class="col-sm-3 logo-parent">
+      <div class="logo">
+      </div>
+    </div>
+      <nav class="col-sm-9">
+        <h1>SEATTLE NEIGHBORHOOD DATA</h1>
+      </nav>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 sidebar">
+      </div>
+    </div>
+  </div>
+
+
   <div class="container" ui-view>
-    <h1>{{test}}</h1>
   </div>
 
 </body>
