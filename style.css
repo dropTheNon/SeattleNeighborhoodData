@@ -2,8 +2,11 @@
   height: 400px;
   width: 100%;
   border: 10px solid white;
-  }
+}
 
+#d3BarChart text{
+  color: white;
+}
 
 @font-face{
   font-family: 'BebaNeue';
