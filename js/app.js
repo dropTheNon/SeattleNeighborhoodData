@@ -1,8 +1,14 @@
-var app = angular.module('SND', ['ngAnimate', 'ui.router']);
+var app = angular.module('SND', ['ngAnimate', 'ui.router', 'uiGmapgoogle-maps']);
+
+app.config(['uiGmapGoogleMapApiProvider', function(GoogleMapApiProviders) {
+  GoogleMapApiProviders.configure({
+    china: true})
+}]);
 
 app.controller('MainCtrl', ['$scope', '$http', function($scope, $http) {
-  $scope.test = "App is working!";
+  $scope.map = {center: {latitude: 47.673401, longitude: -122.342598}, zoom: 14};
 
+  $scope.test = "App is working!";
   $scope.crimedata = [];
   $scope.crimes = [];
 
@@ -24,7 +30,6 @@ app.controller('MainCtrl', ['$scope', '$http', function($scope, $http) {
         month = month.getMonth()+1
         if (month === 7) {
           $scope.crimes.push(crime);
-          console.log(crime);
         }
       });
       } console.log($scope.crimedata);
@@ -34,5 +39,12 @@ app.controller('MainCtrl', ['$scope', '$http', function($scope, $http) {
   
   };
   $scope.search();
+
+  $scope.hidden = true;
+  $scope.clicked = false;
+  $scope.onClick = function () {
+    $scope.clicked = !$scope.clicked;
+    $scope.hidden = !$scope.hidden;
+  };
 
 }]);
