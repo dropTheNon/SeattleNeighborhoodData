@@ -2,11 +2,16 @@
   height: 400px;
   width: 100%;
   border: 10px solid white;
-  }
+}
+
+#d3BarChart text{
+  color: white;
+}
 
 .homemap {
   height: 600px;
 }
+
 @font-face{
   font-family: 'BebaNeue';
   src: url('../fonts/BebasNeue_Regular.ttf') format('truetype');

@@ -146,6 +146,9 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
 
     var someData = "data/seattleCrime.csv";
 
+    var color = d3.scale.ordinal()
+        .range(["#886b89", "#6b486b", "#2ab3b7", "#5f5f82", "#a37471", "#a05d56", "#a2b3b7", "#708a8e"]);
+
     d3.csv("data/seattleCrime.csv", type, function(error, data) {
       // console.log(data);
 
@@ -200,13 +203,16 @@ app.controller('NeighborhoodCtrl', ['$scope', '$http', function($scope, $http) {
             return y(parseInt(d.STAT_VALUE)); 
           })
           .attr("height", function(d) { return height - y(parseInt(d.STAT_VALUE)); })
-          .attr("width", barWidth - 1);
+          .attr("width", barWidth - 1)
+          .style("fill", function(d) { return color(d.STAT_VALUE)});
 
       bar.append("text")
           .attr("x", barWidth / 2)
           .attr("y", function(d) { return y(parseInt(d.STAT_VALUE)) + 3; })
           .attr("dy", ".75em")
-          .text(function(d) { return parseInt(d.STAT_VALUE); });
+          .text(function(d) { return parseInt(d.STAT_VALUE); })
+          .style("fill", "white")
+          .style("margin", "0 auto");
     });
 
     function type(d) {
