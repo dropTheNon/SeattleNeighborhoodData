@@ -8,6 +8,10 @@
   color: white;
 }
 
+.homemap {
+  height: 600px;
+}
+
 @font-face{
   font-family: 'BebaNeue';
   src: url('../fonts/BebasNeue_Regular.ttf') format('truetype');
@@ -29,7 +33,7 @@ nav {
   display:flex;
   justify-content: center;
   align-items: center;
-  height: 180px;
+  height: 148px;
 }
 html {
   margin: 0;
@@ -61,16 +65,43 @@ body {
 
 
 
-
+.sidebar-row {
+  margin-bottom: 30px;
+}
 .sidebar {
   /*height: 400px;*/
   /*background-color:blue;*/
+
+  padding-bottom: 30px;
 }
 
 .sidebar-height {
   height: 600px !important;
   overflow: scroll;
 }
+
+ @media (max-width: 767px) {
+  h1{
+    font-size: 30px;
+    text-align: center;
+    margin-left: -40px;
+  }
+
+  .sidebar {
+    height: 300px !important;
+    width: 95%;
+    padding-bottom: 30px;
+  }
+
+  .sidebar-height: {
+    height: 300px !important;
+    overflow: scroll;
+  }
+  form {
+    width: 95%;
+  }
+
+ }
 
 .container {
 
@@ -86,7 +117,7 @@ body {
 }
 
 .d3chart {
-  height: 400px;
-  background-color:blue;
+  height: auto;
   margin: 0 0 40px 0;
+  overflow-x: hidden;
 }
