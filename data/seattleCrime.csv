@@ -1,0 +1,533 @@
+Beat,CRIME_TYPE,CRIME_DESCRIPTION,STAT_VALUE,REPORT_DATE,Sector,Precinct,Row_Value_ID
+B2,Homicide,Homicide,0,01/01/2008,B,N,8
+B2,Rape,Rape,0,01/01/2008,B,N,9
+B2,Robbery,Robbery,2,01/01/2008,B,N,10
+B2,Assault,Assault,0,01/01/2008,B,N,11
+B2,Larceny-Theft,Larceny-Theft,40,01/01/2008,B,N,12
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",9,01/01/2008,B,N,13
+B2,Burglary,Burglary,12,01/01/2008,B,N,14
+B2,Homicide,Homicide,0,02/01/2008,B,N,365
+B2,Rape,Rape,0,02/01/2008,B,N,366
+B2,Robbery,Robbery,1,02/01/2008,B,N,367
+B2,Assault,Assault,4,02/01/2008,B,N,368
+B2,Larceny-Theft,Larceny-Theft,38,02/01/2008,B,N,369
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,02/01/2008,B,N,370
+B2,Burglary,Burglary,8,02/01/2008,B,N,371
+B2,Homicide,Homicide,0,03/01/2008,B,N,722
+B2,Rape,Rape,0,03/01/2008,B,N,723
+B2,Robbery,Robbery,0,03/01/2008,B,N,724
+B2,Assault,Assault,0,03/01/2008,B,N,725
+B2,Larceny-Theft,Larceny-Theft,38,03/01/2008,B,N,726
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,03/01/2008,B,N,727
+B2,Burglary,Burglary,9,03/01/2008,B,N,728
+B2,Homicide,Homicide,0,04/01/2008,B,N,1079
+B2,Rape,Rape,1,04/01/2008,B,N,1080
+B2,Robbery,Robbery,4,04/01/2008,B,N,1081
+B2,Assault,Assault,1,04/01/2008,B,N,1082
+B2,Larceny-Theft,Larceny-Theft,36,04/01/2008,B,N,1083
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,04/01/2008,B,N,1084
+B2,Burglary,Burglary,7,04/01/2008,B,N,1085
+B2,Homicide,Homicide,0,05/01/2008,B,N,1436
+B2,Rape,Rape,1,05/01/2008,B,N,1437
+B2,Robbery,Robbery,1,05/01/2008,B,N,1438
+B2,Assault,Assault,3,05/01/2008,B,N,1439
+B2,Larceny-Theft,Larceny-Theft,48,05/01/2008,B,N,1440
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,05/01/2008,B,N,1441
+B2,Burglary,Burglary,15,05/01/2008,B,N,1442
+B2,Homicide,Homicide,0,06/01/2008,B,N,1793
+B2,Rape,Rape,-1,06/01/2008,B,N,1794
+B2,Robbery,Robbery,2,06/01/2008,B,N,1795
+B2,Assault,Assault,1,06/01/2008,B,N,1796
+B2,Larceny-Theft,Larceny-Theft,38,06/01/2008,B,N,1797
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,06/01/2008,B,N,1798
+B2,Burglary,Burglary,16,06/01/2008,B,N,1799
+B2,Homicide,Homicide,0,07/01/2008,B,N,2150
+B2,Rape,Rape,0,07/01/2008,B,N,2151
+B2,Robbery,Robbery,1,07/01/2008,B,N,2152
+B2,Assault,Assault,3,07/01/2008,B,N,2153
+B2,Larceny-Theft,Larceny-Theft,42,07/01/2008,B,N,2154
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,07/01/2008,B,N,2155
+B2,Burglary,Burglary,11,07/01/2008,B,N,2156
+B2,Homicide,Homicide,0,08/01/2008,B,N,2507
+B2,Rape,Rape,0,08/01/2008,B,N,2508
+B2,Robbery,Robbery,0,08/01/2008,B,N,2509
+B2,Assault,Assault,0,08/01/2008,B,N,2510
+B2,Larceny-Theft,Larceny-Theft,27,08/01/2008,B,N,2511
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,08/01/2008,B,N,2512
+B2,Burglary,Burglary,13,08/01/2008,B,N,2513
+B2,Homicide,Homicide,0,09/01/2008,B,N,2864
+B2,Rape,Rape,1,09/01/2008,B,N,2865
+B2,Robbery,Robbery,1,09/01/2008,B,N,2866
+B2,Assault,Assault,3,09/01/2008,B,N,2867
+B2,Larceny-Theft,Larceny-Theft,35,09/01/2008,B,N,2868
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,09/01/2008,B,N,2869
+B2,Burglary,Burglary,19,09/01/2008,B,N,2870
+B2,Homicide,Homicide,0,10/01/2008,B,N,3221
+B2,Rape,Rape,0,10/01/2008,B,N,3222
+B2,Robbery,Robbery,3,10/01/2008,B,N,3223
+B2,Assault,Assault,1,10/01/2008,B,N,3224
+B2,Larceny-Theft,Larceny-Theft,33,10/01/2008,B,N,3225
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,10/01/2008,B,N,3226
+B2,Burglary,Burglary,9,10/01/2008,B,N,3227
+B2,Homicide,Homicide,0,11/01/2008,B,N,3578
+B2,Rape,Rape,0,11/01/2008,B,N,3579
+B2,Robbery,Robbery,2,11/01/2008,B,N,3580
+B2,Assault,Assault,3,11/01/2008,B,N,3581
+B2,Larceny-Theft,Larceny-Theft,56,11/01/2008,B,N,3582
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",3,11/01/2008,B,N,3583
+B2,Burglary,Burglary,6,11/01/2008,B,N,3584
+B2,Homicide,Homicide,0,12/01/2008,B,N,3935
+B2,Rape,Rape,0,12/01/2008,B,N,3936
+B2,Robbery,Robbery,3,12/01/2008,B,N,3937
+B2,Assault,Assault,0,12/01/2008,B,N,3938
+B2,Larceny-Theft,Larceny-Theft,40,12/01/2008,B,N,3939
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,12/01/2008,B,N,3940
+B2,Burglary,Burglary,21,12/01/2008,B,N,3941
+B2,Homicide,Homicide,0,01/01/2009,B,N,4292
+B2,Rape,Rape,0,01/01/2009,B,N,4293
+B2,Robbery,Robbery,0,01/01/2009,B,N,4294
+B2,Assault,Assault,2,01/01/2009,B,N,4295
+B2,Larceny-Theft,Larceny-Theft,50,01/01/2009,B,N,4296
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",3,01/01/2009,B,N,4297
+B2,Burglary,Burglary,13,01/01/2009,B,N,4298
+B2,Homicide,Homicide,0,02/01/2009,B,N,4649
+B2,Rape,Rape,0,02/01/2009,B,N,4650
+B2,Robbery,Robbery,1,02/01/2009,B,N,4651
+B2,Assault,Assault,3,02/01/2009,B,N,4652
+B2,Larceny-Theft,Larceny-Theft,33,02/01/2009,B,N,4653
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",9,02/01/2009,B,N,4654
+B2,Burglary,Burglary,9,02/01/2009,B,N,4655
+B2,Homicide,Homicide,0,03/01/2009,B,N,5006
+B2,Rape,Rape,0,03/01/2009,B,N,5007
+B2,Robbery,Robbery,1,03/01/2009,B,N,5008
+B2,Assault,Assault,0,03/01/2009,B,N,5009
+B2,Larceny-Theft,Larceny-Theft,31,03/01/2009,B,N,5010
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,03/01/2009,B,N,5011
+B2,Burglary,Burglary,12,03/01/2009,B,N,5012
+B2,Homicide,Homicide,0,04/01/2009,B,N,5363
+B2,Rape,Rape,0,04/01/2009,B,N,5364
+B2,Robbery,Robbery,5,04/01/2009,B,N,5365
+B2,Assault,Assault,3,04/01/2009,B,N,5366
+B2,Larceny-Theft,Larceny-Theft,34,04/01/2009,B,N,5367
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,04/01/2009,B,N,5368
+B2,Burglary,Burglary,9,04/01/2009,B,N,5369
+B2,Homicide,Homicide,0,05/01/2009,B,N,5720
+B2,Rape,Rape,0,05/01/2009,B,N,5721
+B2,Robbery,Robbery,3,05/01/2009,B,N,5722
+B2,Assault,Assault,4,05/01/2009,B,N,5723
+B2,Larceny-Theft,Larceny-Theft,27,05/01/2009,B,N,5724
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",3,05/01/2009,B,N,5725
+B2,Burglary,Burglary,6,05/01/2009,B,N,5726
+B2,Homicide,Homicide,0,06/01/2009,B,N,6196
+B2,Rape,Rape,0,06/01/2009,B,N,6197
+B2,Robbery,Robbery,1,06/01/2009,B,N,6198
+B2,Assault,Assault,3,06/01/2009,B,N,6199
+B2,Larceny-Theft,Larceny-Theft,35,06/01/2009,B,N,6200
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,06/01/2009,B,N,6201
+B2,Burglary,Burglary,13,06/01/2009,B,N,6202
+B2,Homicide,Homicide,1,07/01/2009,B,N,6721
+B2,Rape,Rape,0,07/01/2009,B,N,6722
+B2,Robbery,Robbery,4,07/01/2009,B,N,6723
+B2,Assault,Assault,3,07/01/2009,B,N,6724
+B2,Larceny-Theft,Larceny-Theft,37,07/01/2009,B,N,6725
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,07/01/2009,B,N,6726
+B2,Burglary,Burglary,20,07/01/2009,B,N,6727
+B2,Homicide,Homicide,0,08/01/2009,B,N,7085
+B2,Rape,Rape,0,08/01/2009,B,N,7086
+B2,Robbery,Robbery,2,08/01/2009,B,N,7087
+B2,Assault,Assault,3,08/01/2009,B,N,7088
+B2,Larceny-Theft,Larceny-Theft,38,08/01/2009,B,N,7089
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,08/01/2009,B,N,7090
+B2,Burglary,Burglary,13,08/01/2009,B,N,7091
+B2,Homicide,Homicide,0,09/01/2009,B,N,7449
+B2,Rape,Rape,0,09/01/2009,B,N,7450
+B2,Robbery,Robbery,2,09/01/2009,B,N,7451
+B2,Assault,Assault,2,09/01/2009,B,N,7452
+B2,Larceny-Theft,Larceny-Theft,52,09/01/2009,B,N,7453
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",19,09/01/2009,B,N,7454
+B2,Burglary,Burglary,15,09/01/2009,B,N,7455
+B2,Homicide,Homicide,0,10/01/2009,B,N,7813
+B2,Rape,Rape,0,10/01/2009,B,N,7814
+B2,Robbery,Robbery,0,10/01/2009,B,N,7815
+B2,Assault,Assault,4,10/01/2009,B,N,7816
+B2,Larceny-Theft,Larceny-Theft,36,10/01/2009,B,N,7817
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,10/01/2009,B,N,7818
+B2,Burglary,Burglary,6,10/01/2009,B,N,7819
+B2,Homicide,Homicide,0,11/01/2009,B,N,8177
+B2,Rape,Rape,0,11/01/2009,B,N,8178
+B2,Robbery,Robbery,3,11/01/2009,B,N,8179
+B2,Assault,Assault,1,11/01/2009,B,N,8180
+B2,Larceny-Theft,Larceny-Theft,34,11/01/2009,B,N,8181
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,11/01/2009,B,N,8182
+B2,Burglary,Burglary,14,11/01/2009,B,N,8183
+B2,Homicide,Homicide,0,12/01/2009,B,N,8541
+B2,Rape,Rape,0,12/01/2009,B,N,8542
+B2,Robbery,Robbery,2,12/01/2009,B,N,8543
+B2,Assault,Assault,2,12/01/2009,B,N,8544
+B2,Larceny-Theft,Larceny-Theft,55,12/01/2009,B,N,8545
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,12/01/2009,B,N,8546
+B2,Burglary,Burglary,4,12/01/2009,B,N,8547
+B2,Homicide,Homicide,0,01/01/2010,B,N,8905
+B2,Rape,Rape,0,01/01/2010,B,N,8906
+B2,Robbery,Robbery,1,01/01/2010,B,N,8907
+B2,Assault,Assault,2,01/01/2010,B,N,8908
+B2,Larceny-Theft,Larceny-Theft,48,01/01/2010,B,N,8909
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,01/01/2010,B,N,8910
+B2,Burglary,Burglary,5,01/01/2010,B,N,8911
+B2,Homicide,Homicide,0,02/01/2010,B,N,9269
+B2,Rape,Rape,0,02/01/2010,B,N,9270
+B2,Robbery,Robbery,0,02/01/2010,B,N,9271
+B2,Assault,Assault,1,02/01/2010,B,N,9272
+B2,Larceny-Theft,Larceny-Theft,33,02/01/2010,B,N,9273
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",-1,02/01/2010,B,N,9274
+B2,Burglary,Burglary,3,02/01/2010,B,N,9275
+B2,Homicide,Homicide,0,03/01/2010,B,N,9633
+B2,Rape,Rape,0,03/01/2010,B,N,9634
+B2,Robbery,Robbery,1,03/01/2010,B,N,9635
+B2,Assault,Assault,0,03/01/2010,B,N,9636
+B2,Larceny-Theft,Larceny-Theft,28,03/01/2010,B,N,9637
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,03/01/2010,B,N,9638
+B2,Burglary,Burglary,8,03/01/2010,B,N,9639
+B2,Homicide,Homicide,0,04/01/2010,B,N,9990
+B2,Rape,Rape,0,04/01/2010,B,N,9991
+B2,Robbery,Robbery,1,04/01/2010,B,N,9992
+B2,Assault,Assault,5,04/01/2010,B,N,9993
+B2,Larceny-Theft,Larceny-Theft,24,04/01/2010,B,N,9994
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,04/01/2010,B,N,9995
+B2,Burglary,Burglary,10,04/01/2010,B,N,9996
+B2,Homicide,Homicide,1,05/01/2010,B,N,10347
+B2,Rape,Rape,0,05/01/2010,B,N,10348
+B2,Robbery,Robbery,2,05/01/2010,B,N,10349
+B2,Assault,Assault,6,05/01/2010,B,N,10350
+B2,Larceny-Theft,Larceny-Theft,45,05/01/2010,B,N,10351
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,05/01/2010,B,N,10352
+B2,Burglary,Burglary,8,05/01/2010,B,N,10353
+B2,Homicide,Homicide,0,06/01/2010,B,N,10711
+B2,Rape,Rape,0,06/01/2010,B,N,10712
+B2,Robbery,Robbery,0,06/01/2010,B,N,10713
+B2,Assault,Assault,1,06/01/2010,B,N,10714
+B2,Larceny-Theft,Larceny-Theft,43,06/01/2010,B,N,10715
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",9,06/01/2010,B,N,10716
+B2,Burglary,Burglary,9,06/01/2010,B,N,10717
+B2,Homicide,Homicide,0,07/01/2010,B,N,11075
+B2,Rape,Rape,0,07/01/2010,B,N,11076
+B2,Robbery,Robbery,1,07/01/2010,B,N,11077
+B2,Assault,Assault,1,07/01/2010,B,N,11078
+B2,Larceny-Theft,Larceny-Theft,34,07/01/2010,B,N,11079
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,07/01/2010,B,N,11080
+B2,Burglary,Burglary,5,07/01/2010,B,N,11081
+B2,Homicide,Homicide,0,08/01/2010,B,N,11439
+B2,Rape,Rape,0,08/01/2010,B,N,11440
+B2,Robbery,Robbery,0,08/01/2010,B,N,11441
+B2,Assault,Assault,6,08/01/2010,B,N,11442
+B2,Larceny-Theft,Larceny-Theft,46,08/01/2010,B,N,11443
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,08/01/2010,B,N,11444
+B2,Burglary,Burglary,10,08/01/2010,B,N,11445
+B2,Homicide,Homicide,0,09/01/2010,B,N,11803
+B2,Rape,Rape,0,09/01/2010,B,N,11804
+B2,Robbery,Robbery,0,09/01/2010,B,N,11805
+B2,Assault,Assault,1,09/01/2010,B,N,11806
+B2,Larceny-Theft,Larceny-Theft,46,09/01/2010,B,N,11807
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,09/01/2010,B,N,11808
+B2,Burglary,Burglary,6,09/01/2010,B,N,11809
+B2,Homicide,Homicide,0,10/01/2010,B,N,12167
+B2,Rape,Rape,0,10/01/2010,B,N,12168
+B2,Robbery,Robbery,2,10/01/2010,B,N,12169
+B2,Assault,Assault,5,10/01/2010,B,N,12170
+B2,Larceny-Theft,Larceny-Theft,36,10/01/2010,B,N,12171
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",2,10/01/2010,B,N,12172
+B2,Burglary,Burglary,6,10/01/2010,B,N,12173
+B2,Homicide,Homicide,0,11/01/2010,B,N,12531
+B2,Rape,Rape,0,11/01/2010,B,N,12532
+B2,Robbery,Robbery,2,11/01/2010,B,N,12533
+B2,Assault,Assault,1,11/01/2010,B,N,12534
+B2,Larceny-Theft,Larceny-Theft,31,11/01/2010,B,N,12535
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,11/01/2010,B,N,12536
+B2,Burglary,Burglary,9,11/01/2010,B,N,12537
+B2,Homicide,Homicide,0,12/01/2010,B,N,12895
+B2,Rape,Rape,0,12/01/2010,B,N,12896
+B2,Robbery,Robbery,2,12/01/2010,B,N,12897
+B2,Assault,Assault,1,12/01/2010,B,N,12898
+B2,Larceny-Theft,Larceny-Theft,18,12/01/2010,B,N,12899
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,12/01/2010,B,N,12900
+B2,Burglary,Burglary,13,12/01/2010,B,N,12901
+B2,Homicide,Homicide,0,01/01/2011,B,N,13098
+B2,Rape,Rape,0,01/01/2011,B,N,13099
+B2,Robbery,Robbery,0,01/01/2011,B,N,13100
+B2,Assault,Assault,3,01/01/2011,B,N,13101
+B2,Larceny-Theft,Larceny-Theft,32,01/01/2011,B,N,13102
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,01/01/2011,B,N,13103
+B2,Burglary,Burglary,8,01/01/2011,B,N,13104
+B2,Homicide,Homicide,0,02/01/2011,B,N,13455
+B2,Rape,Rape,0,02/01/2011,B,N,13456
+B2,Robbery,Robbery,4,02/01/2011,B,N,13457
+B2,Assault,Assault,1,02/01/2011,B,N,13458
+B2,Larceny-Theft,Larceny-Theft,15,02/01/2011,B,N,13459
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",2,02/01/2011,B,N,13460
+B2,Burglary,Burglary,7,02/01/2011,B,N,13461
+B2,Homicide,Homicide,0,03/01/2011,B,N,13812
+B2,Rape,Rape,0,03/01/2011,B,N,13813
+B2,Robbery,Robbery,2,03/01/2011,B,N,13814
+B2,Assault,Assault,0,03/01/2011,B,N,13815
+B2,Larceny-Theft,Larceny-Theft,22,03/01/2011,B,N,13816
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",3,03/01/2011,B,N,13817
+B2,Burglary,Burglary,19,03/01/2011,B,N,13818
+B2,Homicide,Homicide,0,04/01/2011,B,N,14169
+B2,Rape,Rape,0,04/01/2011,B,N,14170
+B2,Robbery,Robbery,2,04/01/2011,B,N,14171
+B2,Assault,Assault,1,04/01/2011,B,N,14172
+B2,Larceny-Theft,Larceny-Theft,21,04/01/2011,B,N,14173
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",1,04/01/2011,B,N,14174
+B2,Burglary,Burglary,9,04/01/2011,B,N,14175
+B2,Homicide,Homicide,0,05/01/2011,B,N,14715
+B2,Rape,Rape,0,05/01/2011,B,N,14716
+B2,Robbery,Robbery,1,05/01/2011,B,N,14717
+B2,Assault,Assault,2,05/01/2011,B,N,14718
+B2,Larceny-Theft,Larceny-Theft,44,05/01/2011,B,N,14719
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",3,05/01/2011,B,N,14720
+B2,Burglary,Burglary,8,05/01/2011,B,N,14721
+B2,Homicide,Homicide,0,06/01/2011,B,N,14918
+B2,Rape,Rape,0,06/01/2011,B,N,14919
+B2,Robbery,Robbery,3,06/01/2011,B,N,14920
+B2,Assault,Assault,1,06/01/2011,B,N,14921
+B2,Larceny-Theft,Larceny-Theft,44,06/01/2011,B,N,14922
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,06/01/2011,B,N,14923
+B2,Burglary,Burglary,3,06/01/2011,B,N,14924
+B2,Homicide,Homicide,0,07/01/2011,B,N,15275
+B2,Rape,Rape,0,07/01/2011,B,N,15276
+B2,Robbery,Robbery,2,07/01/2011,B,N,15277
+B2,Assault,Assault,5,07/01/2011,B,N,15278
+B2,Larceny-Theft,Larceny-Theft,37,07/01/2011,B,N,15279
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",14,07/01/2011,B,N,15280
+B2,Burglary,Burglary,18,07/01/2011,B,N,15281
+B2,Homicide,Homicide,0,08/01/2011,B,N,15646
+B2,Rape,Rape,0,08/01/2011,B,N,15647
+B2,Robbery,Robbery,-1,08/01/2011,B,N,15648
+B2,Assault,Assault,7,08/01/2011,B,N,15649
+B2,Larceny-Theft,Larceny-Theft,39,08/01/2011,B,N,15650
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,08/01/2011,B,N,15651
+B2,Burglary,Burglary,8,08/01/2011,B,N,15652
+B2,Homicide,Homicide,0,09/01/2011,B,N,16003
+B2,Rape,Rape,0,09/01/2011,B,N,16004
+B2,Robbery,Robbery,1,09/01/2011,B,N,16005
+B2,Assault,Assault,3,09/01/2011,B,N,16006
+B2,Larceny-Theft,Larceny-Theft,40,09/01/2011,B,N,16007
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,09/01/2011,B,N,16008
+B2,Burglary,Burglary,6,09/01/2011,B,N,16009
+B2,Homicide,Homicide,0,10/01/2011,B,N,16535
+B2,Rape,Rape,0,10/01/2011,B,N,16536
+B2,Robbery,Robbery,5,10/01/2011,B,N,16537
+B2,Assault,Assault,11,10/01/2011,B,N,16538
+B2,Larceny-Theft,Larceny-Theft,40,10/01/2011,B,N,16539
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,10/01/2011,B,N,16540
+B2,Burglary,Burglary,10,10/01/2011,B,N,16541
+B2,Homicide,Homicide,0,11/01/2011,B,N,16899
+B2,Rape,Rape,0,11/01/2011,B,N,16900
+B2,Robbery,Robbery,3,11/01/2011,B,N,16901
+B2,Assault,Assault,4,11/01/2011,B,N,16902
+B2,Larceny-Theft,Larceny-Theft,32,11/01/2011,B,N,16903
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,11/01/2011,B,N,16904
+B2,Burglary,Burglary,14,11/01/2011,B,N,16905
+B2,Homicide,Homicide,0,12/01/2011,B,N,17263
+B2,Rape,Rape,0,12/01/2011,B,N,17264
+B2,Robbery,Robbery,0,12/01/2011,B,N,17265
+B2,Assault,Assault,1,12/01/2011,B,N,17266
+B2,Larceny-Theft,Larceny-Theft,27,12/01/2011,B,N,17267
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,12/01/2011,B,N,17268
+B2,Burglary,Burglary,13,12/01/2011,B,N,17269
+B2,Homicide,Homicide,0,01/01/2012,B,N,17627
+B2,Rape,Rape,0,01/01/2012,B,N,17628
+B2,Robbery,Robbery,2,01/01/2012,B,N,17629
+B2,Assault,Assault,1,01/01/2012,B,N,17630
+B2,Larceny-Theft,Larceny-Theft,31,01/01/2012,B,N,17631
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,01/01/2012,B,N,17632
+B2,Burglary,Burglary,4,01/01/2012,B,N,17633
+B2,Homicide,Homicide,0,02/01/2012,B,N,17991
+B2,Rape,Rape,1,02/01/2012,B,N,17992
+B2,Robbery,Robbery,0,02/01/2012,B,N,17993
+B2,Assault,Assault,4,02/01/2012,B,N,17994
+B2,Larceny-Theft,Larceny-Theft,18,02/01/2012,B,N,17995
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,02/01/2012,B,N,17996
+B2,Burglary,Burglary,9,02/01/2012,B,N,17997
+B2,Homicide,Homicide,0,03/01/2012,B,N,18355
+B2,Rape,Rape,0,03/01/2012,B,N,18356
+B2,Robbery,Robbery,0,03/01/2012,B,N,18357
+B2,Assault,Assault,3,03/01/2012,B,N,18358
+B2,Larceny-Theft,Larceny-Theft,38,03/01/2012,B,N,18359
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,03/01/2012,B,N,18360
+B2,Burglary,Burglary,11,03/01/2012,B,N,18361
+B2,Homicide,Homicide,0,04/01/2012,B,N,18558
+B2,Rape,Rape,0,04/01/2012,B,N,18559
+B2,Robbery,Robbery,2,04/01/2012,B,N,18560
+B2,Assault,Assault,1,04/01/2012,B,N,18561
+B2,Larceny-Theft,Larceny-Theft,21,04/01/2012,B,N,18562
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",1,04/01/2012,B,N,18563
+B2,Burglary,Burglary,9,04/01/2012,B,N,18564
+B2,Homicide,Homicide,0,05/01/2012,B,N,18915
+B2,Rape,Rape,0,05/01/2012,B,N,18916
+B2,Robbery,Robbery,1,05/01/2012,B,N,18917
+B2,Assault,Assault,6,05/01/2012,B,N,18918
+B2,Larceny-Theft,Larceny-Theft,35,05/01/2012,B,N,18919
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,05/01/2012,B,N,18920
+B2,Burglary,Burglary,8,05/01/2012,B,N,18921
+B2,Homicide,Homicide,0,06/01/2012,B,N,19272
+B2,Rape,Rape,2,06/01/2012,B,N,19273
+B2,Robbery,Robbery,2,06/01/2012,B,N,19274
+B2,Assault,Assault,6,06/01/2012,B,N,19275
+B2,Larceny-Theft,Larceny-Theft,31,06/01/2012,B,N,19276
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",13,06/01/2012,B,N,19277
+B2,Burglary,Burglary,6,06/01/2012,B,N,19278
+B2,Homicide,Homicide,0,07/01/2012,B,N,19629
+B2,Rape,Rape,0,07/01/2012,B,N,19630
+B2,Robbery,Robbery,2,07/01/2012,B,N,19631
+B2,Assault,Assault,1,07/01/2012,B,N,19632
+B2,Larceny-Theft,Larceny-Theft,36,07/01/2012,B,N,19633
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,07/01/2012,B,N,19634
+B2,Burglary,Burglary,9,07/01/2012,B,N,19635
+B2,Homicide,Homicide,0,08/01/2012,B,N,20014
+B2,Rape,Rape,0,08/01/2012,B,N,20015
+B2,Robbery,Robbery,1,08/01/2012,B,N,20016
+B2,Assault,Assault,1,08/01/2012,B,N,20017
+B2,Larceny-Theft,Larceny-Theft,34,08/01/2012,B,N,20018
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",13,08/01/2012,B,N,20019
+B2,Burglary,Burglary,13,08/01/2012,B,N,20020
+B2,Homicide,Homicide,0,09/01/2012,B,N,20371
+B2,Rape,Rape,0,09/01/2012,B,N,20372
+B2,Robbery,Robbery,2,09/01/2012,B,N,20373
+B2,Assault,Assault,3,09/01/2012,B,N,20374
+B2,Larceny-Theft,Larceny-Theft,15,09/01/2012,B,N,20375
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,09/01/2012,B,N,20376
+B2,Burglary,Burglary,12,09/01/2012,B,N,20377
+B2,Homicide,Homicide,0,10/01/2012,B,N,20742
+B2,Rape,Rape,0,10/01/2012,B,N,20743
+B2,Robbery,Robbery,0,10/01/2012,B,N,20744
+B2,Assault,Assault,1,10/01/2012,B,N,20745
+B2,Larceny-Theft,Larceny-Theft,22,10/01/2012,B,N,20746
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,10/01/2012,B,N,20747
+B2,Burglary,Burglary,16,10/01/2012,B,N,20748
+B2,Homicide,Homicide,0,11/01/2012,B,N,21099
+B2,Rape,Rape,0,11/01/2012,B,N,21100
+B2,Robbery,Robbery,1,11/01/2012,B,N,21101
+B2,Assault,Assault,0,11/01/2012,B,N,21102
+B2,Larceny-Theft,Larceny-Theft,25,11/01/2012,B,N,21103
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",5,11/01/2012,B,N,21104
+B2,Burglary,Burglary,13,11/01/2012,B,N,21105
+B2,Homicide,Homicide,0,12/01/2012,B,N,21470
+B2,Rape,Rape,0,12/01/2012,B,N,21471
+B2,Robbery,Robbery,1,12/01/2012,B,N,21472
+B2,Assault,Assault,0,12/01/2012,B,N,21473
+B2,Larceny-Theft,Larceny-Theft,40,12/01/2012,B,N,21474
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,12/01/2012,B,N,21475
+B2,Burglary,Burglary,6,12/01/2012,B,N,21476
+B2,Homicide,Homicide,0,03/01/2013,B,N,22331
+B2,Rape,Rape,0,03/01/2013,B,N,22332
+B2,Robbery,Robbery,2,03/01/2013,B,N,22333
+B2,Assault,Assault,4,03/01/2013,B,N,22334
+B2,Larceny-Theft,Larceny-Theft,27,03/01/2013,B,N,22335
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",7,03/01/2013,B,N,22336
+B2,Burglary,Burglary,21,03/01/2013,B,N,22337
+B2,Homicide,Homicide,0,02/01/2013,B,N,22338
+B2,Rape,Rape,0,02/01/2013,B,N,22339
+B2,Robbery,Robbery,2,02/01/2013,B,N,22340
+B2,Assault,Assault,2,02/01/2013,B,N,22341
+B2,Larceny-Theft,Larceny-Theft,24,02/01/2013,B,N,22342
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,02/01/2013,B,N,22343
+B2,Burglary,Burglary,21,02/01/2013,B,N,22344
+B2,Homicide,Homicide,0,01/01/2013,B,N,22345
+B2,Rape,Rape,0,01/01/2013,B,N,22346
+B2,Robbery,Robbery,2,01/01/2013,B,N,22347
+B2,Assault,Assault,2,01/01/2013,B,N,22348
+B2,Larceny-Theft,Larceny-Theft,20,01/01/2013,B,N,22349
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,01/01/2013,B,N,22350
+B2,Burglary,Burglary,12,01/01/2013,B,N,22351
+B2,Homicide,Homicide,0,04/01/2013,B,N,22926
+B2,Rape,Rape,0,04/01/2013,B,N,22927
+B2,Robbery,Robbery,1,04/01/2013,B,N,22928
+B2,Assault,Assault,3,04/01/2013,B,N,22929
+B2,Larceny-Theft,Larceny-Theft,30,04/01/2013,B,N,22930
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,04/01/2013,B,N,22931
+B2,Burglary,Burglary,19,04/01/2013,B,N,22932
+B2,Homicide,Homicide,0,05/01/2013,B,N,23283
+B2,Rape,Rape,0,05/01/2013,B,N,23284
+B2,Robbery,Robbery,3,05/01/2013,B,N,23285
+B2,Assault,Assault,2,05/01/2013,B,N,23286
+B2,Larceny-Theft,Larceny-Theft,39,05/01/2013,B,N,23287
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,05/01/2013,B,N,23288
+B2,Burglary,Burglary,14,05/01/2013,B,N,23289
+B2,Homicide,Homicide,0,07/01/2013,B,N,23948
+B2,Rape,Rape,0,07/01/2013,B,N,23949
+B2,Robbery,Robbery,3,07/01/2013,B,N,23950
+B2,Assault,Assault,4,07/01/2013,B,N,23951
+B2,Larceny-Theft,Larceny-Theft,31,07/01/2013,B,N,23952
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",11,07/01/2013,B,N,23953
+B2,Burglary,Burglary,19,07/01/2013,B,N,23954
+B2,Homicide,Homicide,0,06/01/2013,B,N,24305
+B2,Rape,Rape,0,06/01/2013,B,N,24306
+B2,Robbery,Robbery,1,06/01/2013,B,N,24307
+B2,Assault,Assault,1,06/01/2013,B,N,24308
+B2,Larceny-Theft,Larceny-Theft,27,06/01/2013,B,N,24309
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",10,06/01/2013,B,N,24310
+B2,Burglary,Burglary,12,06/01/2013,B,N,24311
+B2,Homicide,Homicide,0,08/01/2013,B,N,24382
+B2,Rape,Rape,0,08/01/2013,B,N,24383
+B2,Robbery,Robbery,1,08/01/2013,B,N,24384
+B2,Assault,Assault,2,08/01/2013,B,N,24385
+B2,Larceny-Theft,Larceny-Theft,31,08/01/2013,B,N,24386
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",8,08/01/2013,B,N,24387
+B2,Burglary,Burglary,8,08/01/2013,B,N,24388
+B2,Homicide,Homicide,0,09/01/2013,B,N,24739
+B2,Rape,Rape,0,09/01/2013,B,N,24740
+B2,Robbery,Robbery,3,09/01/2013,B,N,24741
+B2,Assault,Assault,1,09/01/2013,B,N,24742
+B2,Larceny-Theft,Larceny-Theft,37,09/01/2013,B,N,24743
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",11,09/01/2013,B,N,24744
+B2,Burglary,Burglary,18,09/01/2013,B,N,24745
+B2,Homicide,Homicide,0,10/01/2013,B,N,25096
+B2,Rape,Rape,0,10/01/2013,B,N,25097
+B2,Robbery,Robbery,2,10/01/2013,B,N,25098
+B2,Assault,Assault,1,10/01/2013,B,N,25099
+B2,Larceny-Theft,Larceny-Theft,41,10/01/2013,B,N,25100
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",9,10/01/2013,B,N,25101
+B2,Burglary,Burglary,11,10/01/2013,B,N,25102
+B2,Homicide,Homicide,0,11/01/2013,B,N,25453
+B2,Rape,Rape,0,11/01/2013,B,N,25454
+B2,Robbery,Robbery,0,11/01/2013,B,N,25455
+B2,Assault,Assault,1,11/01/2013,B,N,25456
+B2,Larceny-Theft,Larceny-Theft,44,11/01/2013,B,N,25457
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",9,11/01/2013,B,N,25458
+B2,Burglary,Burglary,11,11/01/2013,B,N,25459
+B2,Homicide,Homicide,0,12/01/2013,B,N,25838
+B2,Rape,Rape,0,12/01/2013,B,N,25839
+B2,Robbery,Robbery,1,12/01/2013,B,N,25840
+B2,Assault,Assault,1,12/01/2013,B,N,25841
+B2,Larceny-Theft,Larceny-Theft,37,12/01/2013,B,N,25842
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",6,12/01/2013,B,N,25843
+B2,Burglary,Burglary,15,12/01/2013,B,N,25844
+B2,Homicide,Homicide,0,04/30/2014,B,N,26867
+B2,Rape,Rape,0,04/30/2014,B,N,26868
+B2,Robbery,Robbery,1,04/30/2014,B,N,26869
+B2,Assault,Assault,2,04/30/2014,B,N,26870
+B2,Larceny-Theft,Larceny-Theft,45,04/30/2014,B,N,26871
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",18,04/30/2014,B,N,26872
+B2,Burglary,Burglary,12,04/30/2014,B,N,26873
+B2,Homicide,Homicide,0,03/30/2014,B,N,26874
+B2,Rape,Rape,0,03/30/2014,B,N,26875
+B2,Robbery,Robbery,0,03/30/2014,B,N,26876
+B2,Assault,Assault,1,03/30/2014,B,N,26877
+B2,Larceny-Theft,Larceny-Theft,36,03/30/2014,B,N,26878
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",12,03/30/2014,B,N,26879
+B2,Burglary,Burglary,13,03/30/2014,B,N,26880
+B2,Homicide,Homicide,0,02/28/2014,B,N,26881
+B2,Rape,Rape,0,02/28/2014,B,N,26882
+B2,Robbery,Robbery,0,02/28/2014,B,N,26883
+B2,Assault,Assault,3,02/28/2014,B,N,26884
+B2,Larceny-Theft,Larceny-Theft,24,02/28/2014,B,N,26885
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,02/28/2014,B,N,26886
+B2,Burglary,Burglary,12,02/28/2014,B,N,26887
+B2,Homicide,Homicide,0,01/30/2014,B,N,26888
+B2,Rape,Rape,0,01/30/2014,B,N,26889
+B2,Robbery,Robbery,2,01/30/2014,B,N,26890
+B2,Assault,Assault,1,01/30/2014,B,N,26891
+B2,Larceny-Theft,Larceny-Theft,35,01/30/2014,B,N,26892
+B2,Motor Vehicle Theft,"Vehicle Theft is theft of a car, truck, motorcycle or any motor vehicle.",4,01/30/2014,B,N,26893
+B2,Burglary,Burglary,7,01/30/2014,B,N,26894
