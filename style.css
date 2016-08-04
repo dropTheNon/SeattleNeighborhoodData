@@ -1,0 +1,70 @@
+.angular-google-map-container{height: 400px;}
+
+
+@font-face{
+  font-family: 'BebaNeue';
+  src: url('../fonts/BebasNeue_Regular.ttf') format('truetype');
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  color:black;
+}
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  background:url(/images/Map_of_Seattle_1914.jpg);
+  height: 100%;
+}
+
+.cont {
+  margin: 4%;
+}
+
+.logo-parent {
+  padding: 20px;
+}
+
+.logo {
+  height: 150px;
+  background: url(/images/SND.jpg);
+  background-size: cover;
+  background-position: center;
+  margin: 0 0 0 ;
+}
+
+nav {
+  height: 200px;
+  background-color:green;
+}
+
+
+.sidebar {
+  /*height: 400px;*/
+  /*background-color:blue;*/
+}
+
+.sidebar-height {
+  height: 600px !important;
+  overflow: scroll;
+}
+
+/*.table-fixed thead {
+  width: 97%;
+}
+.table-fixed tbody {
+  height: 230px;
+  overflow-y: auto;
+  width: 100%;
+}
+.table-fixed thead, .table-fixed tbody, .table-fixed tr, .table-fixed td, .table-fixed th {
+  display: block;
+}
+.table-fixed tbody td, .table-fixed thead > tr> th {
+  float: left;
+  border-bottom-width: 0;
+}*/

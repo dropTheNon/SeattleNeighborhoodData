@@ -1,0 +1,12 @@
+<ui-gmap-google-map center="map.center" zoom='map.zoom'>
+  <ui-gmap-marker ng-repeat="crime in crimes track by $index" idKey="$index" coords="{latitude: crime.latitude, longitude: crime.longitude}" ng-click="onClick()">
+    <ui-gmap-window options="windowOptions" ng-hide="hidden">
+      <div>{{crime.summarized_offense_description}}</div>
+    </ui-gmap-window>
+  </ui-gmap-marker>
+</ui-gmap-google-map>
+
+<button ng-click="d3LineChart()">Line Chart</button>
+<button ng-click="d3BarChart()">Bar Chart</button>
+<div id="d3LineChart"></div>
+<svg id="d3BarChart"></svg>
